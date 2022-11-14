@@ -33,21 +33,21 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 ## Key References:
 
-[1] Chudik, A., Kapetanios, G., & Pesaran, M. H. (2018). A one covariate at a time, multiple testing approach to variable selection in high‐dimensional linear regression models. Econometrica, 86(4), 1479-1512. 
+$\textbf{[1]}$ Chudik, A., Kapetanios, G., & Pesaran, M. H. (2018). A one covariate at a time, multiple testing approach to variable selection in high‐dimensional linear regression models. Econometrica, 86(4), 1479-1512. 
 
-[2] Fan, J., & Liao, Y. (2014). Endogeneity in high dimensions. Annals of statistics, 42(3), 872.
+$\textbf{[2]}$ Fan, J., & Liao, Y. (2014). Endogeneity in high dimensions. Annals of statistics, 42(3), 872.
 
-[3] Lockhart, R., Taylor, J., & Tibshirani, R. (2014). A significance test for the lasso. Annals of statistics, 42(2), 413.
+$\textbf{[3]}$ Lockhart, R., Taylor, J., & Tibshirani, R. (2014). A significance test for the lasso. Annals of statistics, 42(2), 413.
 
-[4] Gold, David, Johannes Lederer, and Jing Tao. "Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111." Journal of Econometrics 217.1 (2020): 79-111.
+$\textbf{[4]}$ Gold, David, Johannes Lederer, and Jing Tao. "Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111." Journal of Econometrics 217.1 (2020): 79-111.
 
-[5] Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
+$\textbf{[5]}$ Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
 
-[6] Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
+$\textbf{[6]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
 
-[7] Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
+$\textbf{[7]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
 
-[8] Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
+$\textbf{[8]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
 
 
