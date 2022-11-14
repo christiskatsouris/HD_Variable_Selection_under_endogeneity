@@ -6,7 +6,7 @@ The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://githu
 
 ## Methodology
 
-In this paper, wee propose a novel dimension reduction methodology which operates within a sequential variable selection framework. Specifically, a high dimensional vector of available covariates is scanned sequentially in order to identify the best correctly specified model and associated selected covariates, that is, the correct functional form. Furthermore, the statistical model under consideration tackles the aspect of endogeneity in high dimensional linear models. Our empirical application considers an important application for medical sciences. 
+In this paper, we propose a novel dimension reduction methodology which operates within a sequential variable selection framework. Specifically, a high dimensional vector of available covariates is scanned sequentially in order to identify the best correctly specified model and associated selected covariates, that is, the correct functional form. Furthermore, the statistical model under consideration tackles the aspect of endogeneity in high dimensional linear models. Our empirical application considers an important application for medical sciences. 
 
 ## Installation (under development) 
 
