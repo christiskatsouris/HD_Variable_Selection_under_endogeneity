@@ -118,7 +118,9 @@ $\textbf{[7]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental var
 
 $\textbf{[8]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
 
-$\textbf{[9]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
+$\textbf{[9]}$ Shah, R. D., & Bühlmann, P. (2018). Goodness‐of‐fit tests for high dimensional linear models. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80(1), 113-135.
+
+$\textbf{[10]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
 
 # Acknowledgments
