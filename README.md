@@ -91,6 +91,11 @@ multi_norm(5,5,0.4)
 </p>  
 
 
+<p align="center">
+  
+<img src="https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity/blob/main/data/MCdesign1.png" width="700"/>
+
+</p>  
 
 
 # Bibliography
@@ -112,7 +117,6 @@ $\textbf{[6]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental var
 $\textbf{[7]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
 
 $\textbf{[8]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
-
 
 
 # Acknowledgments
