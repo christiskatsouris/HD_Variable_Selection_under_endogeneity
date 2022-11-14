@@ -59,7 +59,7 @@ Christis G. Katsouris is a Lecturer in Economics at the [University of Exeter Bu
 
 # Code of Coduct
 
-Please note that the ‘ivxPredictive’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+Please note that the ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) R project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
 
 # Declarations
 
