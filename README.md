@@ -22,14 +22,32 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 ```
 
-## Estimation and Inference Examples:
+## Estimation Examples:
+
+```R
 
 
+```
 
 # Bibliography
 
 ## Key References:
 
+[1] Chudik, Alexander, George Kapetanios, and M. Hashem Pesaran. "A One Covariate at a Time, Multiple Testing Approach to Variable Selection in High‐Dimensional Linear Regression Models." Econometrica 86.4 (2018): 1479-1512.
+
+[2] Fan, Jianqing, and Yuan Liao. "Endogeneity in high dimensions." Annals of Statistics 42.3 (2014): 872.
+
+[3] Lockhart, Richard, et al. "A significance test for the lasso." Annals of statistics 42.2 (2014): 413.
+
+[4] Gold, David, Johannes Lederer, and Jing Tao. "Inference for high-dimensional instrumental variables regression." Journal of Econometrics 217.1 (2020): 79-111.
+
+[5] Breunig, Christoph, Enno Mammen, and Anna Simoni. "Ill-posed estimation in high-dimensional models with instrumental variables." Journal of Econometrics 219.1 (2020): 171-200.
+
+[6] Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
+
+[7] Ke, Tracy, Jiashun Jin, and Jianqing Fan. "Covariance assisted screening and estimation." Annals of statistics 42.6 (2014): 2202.
+
+[8] Hagemann, Andreas. "A simple test for regression specification with non-nested alternatives." Journal of Econometrics 166.2 (2012): 247-254.
 
 
 
