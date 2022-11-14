@@ -82,8 +82,16 @@ multi_norm <- function(gene_num,sample_num,R)
 
 multi_norm(5,5,0.4)
 
-
 ```
+
+<p align="center">
+  
+<img src="https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity/blob/main/data/MCstudy.png" width="520"/>
+
+</p>  
+
+> A two-year explosive bubble has just burst on the 13th of November 2022!
+
 
 
 # Bibliography
