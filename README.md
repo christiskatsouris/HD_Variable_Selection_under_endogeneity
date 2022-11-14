@@ -112,11 +112,13 @@ $\textbf{[4]}$ Gold, David, Johannes Lederer, and Jing Tao. "Gold, D., Lederer, 
 
 $\textbf{[5]}$ Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
 
-$\textbf{[6]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
+$\textbf{[6]}$  Windmeijer, F., Farbmacher, H., Davies, N., & Davey Smith, G. (2019). On the use of the lasso for instrumental variables estimation with some invalid instruments. Journal of the American Statistical Association, 114(527), 1339-1350.
 
-$\textbf{[7]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
+$\textbf{[7]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
 
-$\textbf{[8]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
+$\textbf{[8]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
+
+$\textbf{[9]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
 
 # Acknowledgments
