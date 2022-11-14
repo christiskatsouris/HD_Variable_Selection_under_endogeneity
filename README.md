@@ -4,6 +4,10 @@
 
 The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) implements the coding procedure for the resarch project titled: "Variable Selection and Goodness-of-fit Testing in High-Dimensional Linear Models with Endogeneity" which is joint work with [Dr Panayiota Touloupou](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota.aspx), School of Mathematics, University of Birmingham, United Kingdom. 
 
+## Methodology
+
+In this paper, wee propose a novel dimension reduction methodology which operates within a sequential variable selection framework. Specifically, a high dimensional vector of available covariates is scanned sequentially in order to identify the best correctly specified model and associated selected covariates, that is, the correct functional form. Furthermore, the statistical model under consideration tackles the aspect of endogeneity in high dimensional linear models. Our empirical application considers an important application for medical sciences. 
+
 ## Installation (under development) 
 
 The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) will be able to be installed from Github.
@@ -22,7 +26,9 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 
 
-## Main References:
+# Bibliography
+
+## Key References:
 
 
 
