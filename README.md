@@ -29,6 +29,63 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 ```
 
+
+## Simulation Studies:
+
+```R
+
+#############################################################################################
+library(MASS)
+
+# function to simulate multivariate normal distribution
+# given gene number, sample size and correlation coefficient
+
+multi_norm <- function(gene_num,sample_num,R) 
+{# begin of function 
+
+  # initial covariance matrix
+  V <- matrix(data=NA, nrow=gene_num, ncol=gene_num)
+  
+  V <- matrix(data=NA, nrow=gene_num, ncol=gene_num)
+  
+  # mean for each gene
+  meansmodule <- runif(gene_num, min=-3, max=3)
+  # variance for each gene
+  varsmodule <- runif(gene_num, min=0, max=5)
+  
+  for (i in 1:gene_num)
+  {
+    # a two-level nested loop to generate covariance matrix
+    for (j in 1:gene_num) 
+    {
+      if (i == j) 
+      {
+        # covariances on the diagonal
+        V[i,j] <- varsmodule[i]
+      } 
+      else 
+      {
+        # covariances
+        V[i,j] <- R * sqrt(varsmodule[i]) * sqrt(varsmodule[j])
+      }
+    }
+  }
+  
+  # simulate multivariate normal distribution
+  # given means and covariance matrix
+  
+  X <- t(mvrnorm(n = sample_num, meansmodule, V))
+  
+  return(X)
+  
+}# end of function
+
+multi_norm(5,5,0.4)
+
+
+```
+
+
 # Bibliography
 
 ## Key References:
