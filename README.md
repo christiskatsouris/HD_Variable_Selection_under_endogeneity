@@ -108,7 +108,7 @@ $\textbf{[2]}$ Fan, J., & Liao, Y. (2014). Endogeneity in high dimensions. Annal
 
 $\textbf{[3]}$ Lockhart, R., Taylor, J., & Tibshirani, R. (2014). A significance test for the lasso. Annals of statistics, 42(2), 413.
 
-$\textbf{[4]}$ Gold, David, Johannes Lederer, and Jing Tao. "Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111." Journal of Econometrics 217.1 (2020): 79-111.
+$\textbf{[4]}$ Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111.
 
 $\textbf{[5]}$ Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
 
