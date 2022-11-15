@@ -124,7 +124,10 @@ $\textbf{[10]}$ Battey, H., Fan, J., Liu, H., Lu, J., & Zhu, Z. (2018). Distribu
 
 $\textbf{[11]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
-$\textbf{[12]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. arXiv preprint arXiv:2112.12031.
+$\textbf{[12]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. [arXiv preprint:2112.12031](https://arxiv.org/abs/2112.12031).
+
+$\textbf{[13]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv preprint:2112.04887](https://arxiv.org/abs/2112.04887).
+
 
 
 # Acknowledgments
