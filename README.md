@@ -124,11 +124,13 @@ $\textbf{[10]}$ Battey, H., Fan, J., Liu, H., Lu, J., & Zhu, Z. (2018). Distribu
 
 $\textbf{[11]}$  Yousuf, K. (2018). Variable screening for high dimensional time series. Electronic Journal of Statistics, 12(1), 667-702.
 
-$\textbf{[12]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
+$\textbf{[12]}$  Campbell, F., & Allen, G. I. (2017). Within group variable selection through the exclusive lasso. Electronic Journal of Statistics, 11(2), 4220-4257.
 
-$\textbf{[13]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. [arXiv:2112.12031](https://arxiv.org/abs/2112.12031).
+$\textbf{[13]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
-$\textbf{[14]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
+$\textbf{[14]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. [arXiv:2112.12031](https://arxiv.org/abs/2112.12031).
+
+$\textbf{[15]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
 
 
 
