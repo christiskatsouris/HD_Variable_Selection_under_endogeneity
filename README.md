@@ -8,7 +8,9 @@ The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://githu
 
 In this paper, we propose a novel dimension reduction methodology which operates within a sequential variable selection framework. Specifically, a high dimensional vector of available covariates is scanned sequentially in order to identify the best correctly specified model and associated selected covariates, that is, the correct functional form. Furthermore, the statistical model under consideration tackles the aspect of endogeneity in high dimensional linear models. Our empirical application considers an important application from the field of medical sciences. 
 
-## Installation (Under Development: This is the replication page) 
+## Installation  
+
+### Under Development: This is the replication page
 
 The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) will be able to be installed from Github.
 
