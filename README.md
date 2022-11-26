@@ -37,7 +37,7 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 2. Therefore, under the presence of endogeineity which is a well-studied problem in econometrics our aim is to investigate the effect of the degree of endogeneity to the variable selection procedure when this is based on either a priority lasso constraint or an exclusive lasso constraint by considering suitably regularity conditions such that uniform statistical theory can be developed.    
 
-3. Furthermore, we implement our proposed estimation and testing methodology using real-life data in cases where sectoral diversification is required to ensure both statistical theory and optimality conditions, such as prediction and selection consistency, while statistical guarantees for algorithmic fairness and "survival of the fittest" features apply. 
+3. Furthermore, we implement our proposed estimation and testing methodology using real-life data in cases where sectoral diversification is required to ensure both statistical theory and optimality conditions, such as prediction and selection consistency hold, while there are no violations of assumptions related to statistical guarantees for algorithmic fairness and "survival of the fittest" features. 
 
 
 
