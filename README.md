@@ -33,7 +33,9 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 
 ## Remarks: 
 
-1. Notice that we focus on two cases of lasso shrinkage for constructing our estimation methodology in the settings of the proposed framework, that is (i) the Priority Lasso shrinkage norm and (ii) the Exclusive Lasso shrinkage norm. The former shrinkage norm corresponds to the case of group variable selection with the constraint that the first block has to have at least one variable being selected, while the second block can consist of more than one variables (with no restriction). Therefore, under the presence of endogeineity which is a well-studied problem in econometrics our aim is to investigate the effect of the degree of endogeneity to the variable selection procedure when this is based on either a priority lasso constraint or an exclusive lasso constraint by considering suitably regularity conditions such that uniform statistical theory can be developed.    
+1. Notice that we focus on two cases of lasso shrinkage for constructing our estimation methodology in the settings of the proposed framework, that is (i) the Priority Lasso shrinkage norm and (ii) the Exclusive Lasso shrinkage norm. The former shrinkage norm corresponds to the case of group variable selection with the constraint that the first block has to have at least one variable being selected, while the second block can consist of more than one variables (with no restriction). The latter shrinkage norm which corresponds to the exclusive lasso when there are predefined groups and encourages exclusivity within groups.   
+
+2. Therefore, under the presence of endogeineity which is a well-studied problem in econometrics our aim is to investigate the effect of the degree of endogeneity to the variable selection procedure when this is based on either a priority lasso constraint or an exclusive lasso constraint by considering suitably regularity conditions such that uniform statistical theory can be developed.    
 
 
 
