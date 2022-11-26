@@ -12,7 +12,7 @@ In this paper, we propose a novel dimension reduction methodology which operates
 
 ### Under Development: This is the replication page
 
-The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) will be able to be installed from Github.
+The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) will be able to installed from Github.
 
 ## Usage: 
 
