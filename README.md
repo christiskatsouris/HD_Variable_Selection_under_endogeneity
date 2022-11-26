@@ -2,7 +2,7 @@
 
 ## Description 
 
-The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) implements the coding procedure for the research project titled: "Variable Selection and Goodness-of-fit Testing in High-Dimensional Linear Models under Endogeneity" which is joint work with [Dr Panayiota Touloupou](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota.aspx), School of Mathematics, University of Birmingham, United Kingdom. 
+The R package ['Variable_Selection_GoF_testing_under_endogeneity'](https://github.com/christiskatsouris/Variable_Selection_GoF_testing_under_endogeneity) implements the coding procedure for the research project titled: "Variable Selection and Goodness-of-fit Testing in High-Dimensional Linear Models under Endogeneity" which is joint work with [Dr Panayiota Touloupou](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota.aspx) from the School of Mathematics, University of Birmingham, United Kingdom. 
 
 ## Methodology
 
