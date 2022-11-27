@@ -148,8 +148,6 @@ $\textbf{[16]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Secti
 
 $\textbf{[17]}$ Beauchamp, J. P., Cesarini, D., Johannesson, M., van der Loos, M. J., Koellinger, P. D., Groenen, P. J., ... & Christakis, N. A. (2011). Molecular genetics and economics. Journal of Economic Perspectives, 25(4), 57-82.
 
-$\textbf{[18]}$ Andreou, E., Gagliardini, P., Ghysels, E., & Rubin, M. (2019). Inference in Group Factor Models With an Application to Mixed‐Frequency Data. Econometrica, 87(4), 1267-1305.
-
 # Acknowledgments
 
 The second author (Christis G. Katsouris) greatfully acknowledges financial support from the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [Faculty of Environment, Science and Economy](https://www.exeter.ac.uk/departments/ese/) at the University of Exeter, United Kingdom. 
