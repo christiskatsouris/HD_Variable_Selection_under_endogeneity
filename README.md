@@ -114,39 +114,41 @@ multi_norm(5,5,0.4)
 
 ## Key References:
 
-$\textbf{[1]}$ Chudik, A., Kapetanios, G., & Pesaran, M. H. (2018). A one covariate at a time, multiple testing approach to variable selection in high‐dimensional linear regression models. Econometrica, 86(4), 1479-1512. 
+$\textbf{[1]}$ Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111.
 
-$\textbf{[2]}$ Fan, J., & Liao, Y. (2014). Endogeneity in high dimensions. Annals of statistics, 42(3), 872.
+$\textbf{[2]}$ Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
 
-$\textbf{[3]}$ Lockhart, R., Taylor, J., & Tibshirani, R. (2014). A significance test for the lasso. Annals of statistics, 42(2), 413.
+$\textbf{[3]}$  Windmeijer, F., Farbmacher, H., Davies, N., & Davey Smith, G. (2019). On the use of the lasso for instrumental variables estimation with some invalid instruments. Journal of the American Statistical Association, 114(527), 1339-1350.
 
-$\textbf{[4]}$ Gold, D., Lederer, J., & Tao, J. (2020). Inference for high-dimensional instrumental variables regression. Journal of Econometrics, 217(1), 79-111.
+$\textbf{[4]}$ Guo, Z., Kang, H., Tony Cai, T., & Small, D. S. (2018). Confidence intervals for causal effects with invalid instruments by using two‐stage hard thresholding with voting. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80(4), 793-815.
 
-$\textbf{[5]}$ Breunig, C., Mammen, E., & Simoni, A. (2020). Ill-posed estimation in high-dimensional models with instrumental variables. Journal of Econometrics, 219(1), 171-200.
+$\textbf{[5]}$ Shah, R. D., & Bühlmann, P. (2018). Goodness‐of‐fit tests for high dimensional linear models. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80(1), 113-135.
 
-$\textbf{[6]}$  Windmeijer, F., Farbmacher, H., Davies, N., & Davey Smith, G. (2019). On the use of the lasso for instrumental variables estimation with some invalid instruments. Journal of the American Statistical Association, 114(527), 1339-1350.
+$\textbf{[6]}$ Chudik, A., Kapetanios, G., & Pesaran, M. H. (2018). A one covariate at a time, multiple testing approach to variable selection in high‐dimensional linear regression models. Econometrica, 86(4), 1479-1512. 
 
-$\textbf{[7]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
+$\textbf{[7]}$ Battey, H., Fan, J., Liu, H., Lu, J., & Zhu, Z. (2018). Distributed testing and estimation under sparse high dimensional models. Annals of statistics, 46(3), 1352.
 
-$\textbf{[8]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
+$\textbf{[8]}$  Yousuf, K. (2018). Variable screening for high dimensional time series. Electronic Journal of Statistics, 12(1), 667-702.
 
-$\textbf{[9]}$ Shah, R. D., & Bühlmann, P. (2018). Goodness‐of‐fit tests for high dimensional linear models. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80(1), 113-135.
+$\textbf{[9]}$  Campbell, F., & Allen, G. I. (2017). Within group variable selection through the exclusive lasso. Electronic Journal of Statistics, 11(2), 4220-4257.
 
-$\textbf{[10]}$ Battey, H., Fan, J., Liu, H., Lu, J., & Zhu, Z. (2018). Distributed testing and estimation under sparse high dimensional models. Annals of statistics, 46(3), 1352.
+$\textbf{[10]}$ Fan, J., & Liao, Y. (2014). Endogeneity in high dimensions. Annals of statistics, 42(3), 872.
 
-$\textbf{[11]}$  Yousuf, K. (2018). Variable screening for high dimensional time series. Electronic Journal of Statistics, 12(1), 667-702.
+$\textbf{[11]}$ Lockhart, R., Taylor, J., & Tibshirani, R. (2014). A significance test for the lasso. Annals of statistics, 42(2), 413.
 
-$\textbf{[12]}$  Campbell, F., & Allen, G. I. (2017). Within group variable selection through the exclusive lasso. Electronic Journal of Statistics, 11(2), 4220-4257.
+$\textbf{[12]}$ Gautier, E., & Rose, C. (2011). High-dimensional instrumental variables regression and confidence sets. arXiv preprint arXiv:1105.2454.
 
-$\textbf{[13]}$ Zhang, C. H. (2010). Nearly unbiased variable selection under minimax concave penalty. The Annals of statistics, 38(2), 894-942.
+$\textbf{[13]}$ Ke, T., Jin, J., & Fan, J. (2014). Covariance assisted screening and estimation. Annals of statistics, 42(6), 2202.
 
-$\textbf{[14]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
+$\textbf{[14]}$ Zhang, C. H. (2010). Nearly unbiased variable selection under minimax concave penalty. The Annals of statistics, 38(2), 894-942.
 
-$\textbf{[15]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. [arXiv:2112.12031](https://arxiv.org/abs/2112.12031).
+$\textbf{[15]}$ Hagemann, A. (2012). A simple test for regression specification with non-nested alternatives. Journal of Econometrics, 166(2), 247-254.
 
-$\textbf{[16]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
+$\textbf{[16]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. [arXiv:2112.12031](https://arxiv.org/abs/2112.12031).
 
-$\textbf{[17]}$ Beauchamp, J. P., Cesarini, D., Johannesson, M., van der Loos, M. J., Koellinger, P. D., Groenen, P. J., ... & Christakis, N. A. (2011). Molecular genetics and economics. Journal of Economic Perspectives, 25(4), 57-82.
+$\textbf{[17]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
+
+$\textbf{[18]}$ Beauchamp, J. P., Cesarini, D., Johannesson, M., van der Loos, M. J., Koellinger, P. D., Groenen, P. J., ... & Christakis, N. A. (2011). Molecular genetics and economics. Journal of Economic Perspectives, 25(4), 57-82.
 
 # Acknowledgments
 
