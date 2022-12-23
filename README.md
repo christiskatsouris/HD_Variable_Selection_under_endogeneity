@@ -1,4 +1,4 @@
-# Variable Selection and Goodness-of-fit Testing in High-Dimensional Linear Models under Endogeneity
+# Group Variable Selection and Goodness-of-fit Testing in High-Dimensional Regressions under Endogeneity
 
 ## Description 
 
