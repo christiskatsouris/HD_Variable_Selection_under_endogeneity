@@ -40,8 +40,6 @@ library("Variable_Selection_GoF_testing_under_endogeneity")
 3. Furthermore, we implement our proposed estimation and testing methodology using real-life data in cases where sectoral diversification is required to ensure both statistical theory and optimality conditions, such as prediction and selection consistency hold, while there are no violations of assumptions related to statistical guarantees for algorithmic fairness and "survival of the fittest" features. 
 
 
-
-
 ## Simulation Studies:
 
 ```R
@@ -148,8 +146,6 @@ $\textbf{[16]}$ Katsouris, C. (2021a). Optimal Portfolio Choice and Stock Centra
 
 $\textbf{[17]}$  Katsouris, C. (2021b). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv:2112.04887](https://arxiv.org/abs/2112.04887).
 
-$\textbf{[18]}$ Beauchamp, J. P., Cesarini, D., Johannesson, M., van der Loos, M. J., Koellinger, P. D., Groenen, P. J., ... & Christakis, N. A. (2011). Molecular genetics and economics. Journal of Economic Perspectives, 25(4), 57-82.
-
 # Acknowledgments
 
 The second author (Christis G. Katsouris) greatfully acknowledges financial support from the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [Faculty of Environment, Science and Economy](https://www.exeter.ac.uk/departments/ese/) at the University of Exeter, United Kingdom. 
@@ -163,8 +159,6 @@ Please note that the ['Variable_Selection_GoF_testing_under_endogeneity'](https:
 # Declarations
 
 The author (Christis G. Katsouris) declares no conflicts of interest.
-
-Notice that the academic research presented here is considered to be as open access to the academic and non-academic community. Therefore, we would appreciate it if appropriate acknolwedgement is given to statistical methodologies and econometric procedures developed by academic researchers and made available to the wider applied data scientist community.   
 
 # Historical Background
 
